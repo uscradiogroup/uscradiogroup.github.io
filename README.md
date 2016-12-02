@@ -3,10 +3,10 @@
 USC Radio Labs is a department of USC Radio Group dedicated to producing new music products, services, and experiences for classical music. We work with musicians, tastemakers, classical aficionado, audiophiles and arts partners worldwide to create high quality digital experiences. The team develops websites, apps, API services, and new forms of interactive media that promote both music and story-driven listening.
 
 What do we do?
-We produce high quality programming for listeners worldwide.
-We pioneer new forms of music discovery and creation.
-We promote learning such as the art of listening, music history, and music theory.
-We provide new platforms for dialog and discussion.
+* We produce high quality programming for listeners worldwide.
+* We pioneer new forms of music discovery and creation.
+* We promote learning such as the art of listening, music history, and music theory.
+* We provide new platforms for dialog and discussion.
 
 # About USC Radio Group
 
